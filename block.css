@@ -1,0 +1,416 @@
+.one
+
+	{
+	color:orange;
+	font-size:30px;
+	float:left;
+	margin-left:25px;
+	}
+		
+.two
+	{
+	color:black;
+	margin-left:50px;
+	margin-top:10px;
+	float:left;
+	text-decoration:none;
+	}
+
+.three 
+	{
+	float:left;	
+	margin-left:10px;
+	margin-top:10px;
+	}	
+	
+.four
+	{
+	float:left;
+	margin-left:40px;
+	margin-top:5px;
+	border:1px solid black;
+	padding-right:490px;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:10px;
+	border-radius:30px;
+	font-size:18px;
+	}	
+	
+.five
+	{
+	font-size:18px;	
+	float:left;
+	margin-left:40px;
+	margin-top:10px;
+	}
+
+.six
+	{
+	margin-top:10px;
+	float:left;
+	margin-left:30px;
+	border:3px solid black;
+	border-radius:30px;
+	}
+	
+.seven
+	{
+	border-radius:30px;	
+	}	
+	
+.eight
+	{
+	float:left;
+	margin-left:30px;
+	margin-top:10px;
+	}
+	
+.nine
+	{
+	float:left;
+	margin-left:30px;
+	margin-top:10px;	
+	}	
+	
+.ten
+	{
+	float:left;
+	margin-left:30px;
+	margin-top:10px;	
+	}	
+	
+.g1
+	{
+	margin-top:10px;
+	margin-left:330px;
+	float:left;
+	}	
+
+.g2
+	{
+	float:left;
+	margin-top:10px;
+	margin-left:20px;
+	font-size:14px;
+	text-decoration:none;
+	color:black;
+	}	
+	
+.g3
+	{
+	float:left;
+	margin-top:10px;
+	margin-left:40px;
+	font-size:14px;
+	text-decoration:none;
+	color:black;
+	}	
+	
+.g4	
+	{
+	float:left;
+	margin-top:10px;
+	margin-left:30px;	
+	font-size:14px;	
+	text-decoration:none;
+	color:black;
+	}
+	
+.g5
+	{
+	float:left;
+	margin-top:10px;
+	margin-left:30px;	
+	font-size:14px;		
+	}	
+	
+.g6
+	{
+	float:left;
+	margin-top:10px;
+	margin-left:30px;	
+	font-size:14px;		
+	}	
+	
+.location
+	{
+	float:left;
+	margin-left:340px;
+	font-size:42px;
+	margin-top:20px;
+	}	
+	
+.laptop
+	{
+	float:left;
+	margin-left:370px;
+	font-size:35px;
+	margin-top:10px;	
+	}	
+	
+.sen
+	{
+	width:100%;
+	height:12%;
+	margin-top:70px;
+	float:left;
+	}	
+
+.dec
+	{
+	float:left;
+	margin-left:20px;
+	}
+
+.soc
+	{
+	float:left;
+	margin-top:7%;
+	margin-left:-6%;
+	}
+	
+.ddc
+	{
+	float:left;
+	margin-top:8.3%;
+	margin-left:-5%;
+	}	
+	
+.abc
+	{
+	float:left;
+	margin-left:4%;	
+	margin-top:-O.2%;
+	}	
+	
+.tbs
+	{
+	float:left;
+	margin-top:7%;
+	margin-left:-6%;	
+	}
+	
+.ask
+	{
+	float:left;
+	margin-top:8.3%;
+	margin-left:-5%;	
+	}	
+	
+.pens
+	{
+	float:left;
+	margin-left:4%;	
+	margin-top:-0.2%;	
+	}
+
+.sar
+	{
+	float:left;
+	margin-top:7%;
+	margin-left:-5%;	
+	}
+	
+.car
+	{
+	float:left;
+	margin-top:8.2%;
+	margin-left:-6%;		
+	}
+
+.sap
+	{
+	float:left;
+	margin-top:9.5%;
+	margin-left:-5%;	
+	}
+	
+.miramar
+	{
+	float:left;
+	margin-left:4%;	
+	margin-top:-0.2%;		
+	}	
+	
+.stk
+	{
+	float:left;
+	margin-top:7%;
+	margin-left:-5%;		
+	}	
+	
+.shree
+	{
+	float:left;
+	margin-left:4%;	
+	margin-top:-0.2%;		
+	}	
+	
+	
+.tok
+	{
+	float:left;
+	margin-top:7%;
+	margin-left:-5%;			
+	}	
+
+.ram
+	{
+	float:left;
+	margin-left:3%;	
+	margin-top:-0.2%;			
+	}	
+	
+.nam
+	{
+	float:left;
+	margin-top:7%;
+	margin-left:-5%;	
+	}	
+
+.hanuman
+	{
+	float:left;
+	margin-left:3%;	
+	margin-top:-0.2%;				
+	}	
+	
+.auno
+	{
+	float:left;
+	margin-top:7%;
+	margin-left:-4.7%;				
+	}	
+	
+.shreeramhanuman
+	{
+	float:left;
+	margin-top:8.2%;
+	margin-left:-4.1%;			
+	}	
+
+.docters
+	{
+	float:left;
+	margin-top:0.2%;
+	margin-left:3%;	
+	}	
+
+.iscaut
+	{
+	float:left;
+	margin-top:7%;
+	margin-left:-5.5%;					
+	}	
+	
+.classes
+	{
+	float:left;
+	margin-top:0.2%;
+	margin-left:3%;		
+	}	
+	
+.not
+	{
+	float:left;
+	margin-top:7%;
+	margin-left:-5.5%;						
+	}	
+	
+.toktu
+	{
+	float:left;
+	margin-top:0.2%;
+	margin-left:2%;		
+	}	
+	
+.notaped
+	{
+	float:left;
+	margin-top:7%;
+	margin-left:-5.5%;	
+	}	
+	
+.sai
+	{
+	float:left;
+	margin-top:0.3%;
+	margin-left:2%;		
+	}	
+	
+.lok
+	{
+	float:left;
+	margin-top:7%;
+	margin-left:-5.5%;		
+	}	
+	
+.shok
+	{
+	float:left;
+	margin-top:8%;
+	margin-left:2%;
+	}	
+	
+.tokss
+	{
+	float:left;
+	margin-top:8%;
+	margin-left:2%;	
+	}	
+	
+.team
+	{
+	float:left;
+	margin-top:8%;
+	margin-left:2%;	
+	}	
+	
+.sok
+	{
+	float:left;
+	margin-top:8%;
+	margin-left:2%;		
+	}
+	
+.total
+	{
+	float:left;
+	margin-top:-5%;
+	margin-left:2%;			
+	}	
+	
+.totals
+	{
+	float:left;
+	margin-top:1%;
+	margin-left:3%;	
+	}	
+	
+.soks
+	{
+	float:left;
+	margin-top:-4.4%;
+	margin-left:3%;		
+	}	
+	
+.reds
+	{
+	float:left;
+	margin-top:1%;
+	margin-left:2%;		
+	}	
+	
+.laxmi
+	{
+	float:left;
+	border:2px solid black;
+	border-radius:30px;
+	padding-left:5%;
+	padding-right:5%;
+	padding-top:5%;
+	padding-bottom:%;
+	margin-left:-160%;
+	font-size:20px;
+	}

@@ -1,0 +1,22 @@
+.one{
+	float:left;
+	background-color:red;
+	height:10%;
+	width:100%;
+	padding-right:6%;
+	margin-left:-2%;
+	margin-top:-2%;
+	}
+			
+@media (max-width:600px){
+.one
+	{
+	float:left;
+	background-color:blue;
+	height:10%;
+	width:98%;
+	padding-right:6%;
+	margin-left:-2%;
+	margin-top:-2%;
+	}
+	}

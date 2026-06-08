@@ -1,0 +1,21 @@
+
+.web1
+	{border:1px solid black;
+	float:left;
+	width:%;
+	margin:3% 0% 0% 10%;}
+.web2
+	{width:100%;
+	float:left;}	
+.web3
+	{display:none;
+	float:left;
+	font-size:35px;
+	text-align:center;
+	padding:2% 0% 0% 35%;
+	}	
+.web1:hover>.web3
+	{display:block;
+	background-color:blac;
+	text-shadow:2px 2px 10px red;
+	}	

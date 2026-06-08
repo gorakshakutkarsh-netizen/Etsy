@@ -1,0 +1,973 @@
+.one
+	{
+	color:orange;
+	font-size:30px;
+	float:left;
+	margin-left:25px;
+	}
+		
+.two
+	{
+	color:black;
+	margin-left:50px;
+	margin-top:10px;
+	float:left;
+	text-decoration:none;
+	}
+
+.three 
+	{
+	float:left;	
+	margin-left:10px;
+	margin-top:10px;
+	}	
+	
+.four
+	{
+	float:left;
+	margin-left:40px;
+	margin-top:5px;
+	border:1px solid black;
+	padding-right:490px;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:10px;
+	border-radius:30px;
+	font-size:18px;
+	}	
+	
+.five
+	{
+	font-size:18px;	
+	float:left;
+	margin-left:40px;
+	margin-top:10px;
+	}
+
+.six
+	{
+	margin-top:10px;
+	float:left;
+	margin-left:30px;
+	border:3px solid black;
+	border-radius:30px;
+	}
+	
+.seven
+	{
+	border-radius:30px;	
+	}	
+	
+.eight
+	{
+	float:left;
+	margin-left:30px;
+	margin-top:10px;
+	}
+	
+.nine
+	{
+	float:left;
+	margin-left:30px;
+	margin-top:10px;	
+	}	
+	
+.ten
+	{
+	float:left;
+	margin-left:30px;
+	margin-top:10px;	
+	}	
+	
+.g1
+	{
+	margin-top:10px;
+	margin-left:330px;
+	float:left;
+	}	
+
+.g2
+	{
+	float:left;
+	margin-top:10px;
+	margin-left:20px;
+	font-size:14px;
+	text-decoration:none;
+	color:black;
+	}	
+	
+.g3
+	{
+	float:left;
+	margin-top:10px;
+	margin-left:40px;
+	font-size:14px;
+	text-decoration:none;
+	color:black;
+	}	
+	
+.g4	
+	{
+	float:left;
+	margin-top:10px;
+	margin-left:30px;	
+	font-size:14px;	
+	text-decoration:none;
+	color:black;
+	}
+	
+.g5
+	{
+	float:left;
+	margin-top:10px;
+	margin-left:30px;	
+	font-size:14px;		
+	}	
+	
+.g6
+	{
+	float:left;
+	margin-top:10px;
+	margin-left:30px;	
+	font-size:14px;		
+	}	
+	
+.loks
+	{
+	height:38%;
+	width:120%;
+	background-color:114232;
+	margin-left:-10%;
+	margin-top:-1%;
+	}	
+	
+.toks
+	{
+	float:left;
+	margin-left:40%;
+	font-size:40px;
+	color:white;
+	}	
+	
+.sok
+	{
+	float:left;
+	margin-left:18%;
+	font-size:25px;
+	margin-top:-1%;
+	color:white;
+	}	
+	
+.tomen
+	{
+	height:40%;
+	width:120%;
+	float:left;
+	}	
+	
+.ask
+	{
+	border-radius:80px;
+	float:left;
+	margin-left:4%;
+	margin-top:-2%;
+	}	
+	
+.local
+	{
+	float:left;
+	margin-left:-11%;	
+	margin-top:9%;
+	}
+	
+.ram
+	{
+	float:left;
+	margin-left:-1%;
+	margin-top:9%;
+	}
+
+.bottal
+	{
+	margin-left:5%;
+	float:left;
+	margin-top:-2%;
+	border-radius:200px;
+	}	
+	
+.i 
+	{
+	float:left;
+	margin-left:-10%;
+	margin-top:9%;	
+	}	
+	
+.rams
+	{
+	float:left;
+	margin-left:-0.1%;
+	margin-top:9%;
+	}	
+	
+.tokla
+	{
+	margin-left:4%;
+	float:left;
+	margin-top:-2%;
+	border-radius:90px;	
+	}	
+	
+.komal
+	{
+	float:left;
+	margin-left:-8%;	
+	margin-top:9%;	
+	}	
+
+.ramss
+	{
+	float:left;
+	margin-left:-4%;
+	margin-top:9%;	
+	}	
+	
+.orgeno
+	{
+	float:left;
+	margin-left:4%;	
+	margin-top:-2%;		
+	border-radius:90px;
+	}	
+	
+.rikot
+	{
+	float:left;
+	margin-left:-10%;	
+	margin-top:9%;		
+	}	
+	
+.ravan
+	{
+	float:left;
+	margin-left:-2%;
+	margin-top:9%;	
+	}	
+	
+.roket
+	{
+	float:left;
+	margin-left:4%;	
+	margin-top:-2%;		
+	border-radius:90px;	
+	}	
+	
+.rikots
+	{
+	float:left;
+	margin-left:-7%;	
+	margin-top:9%;			
+	}	
+	
+.siya	
+	{
+	float:left;
+	margin-left:3%;	
+	margin-top:-2%;		
+	border-radius:90px;	
+	}	
+	
+.timeto
+	{
+	float:left;
+	margin-left:-7%;	
+	margin-top:9%;				
+	}
+	
+.ravasn
+	{
+	float:left;
+	margin-left:-2%;
+	margin-top:9%
+	}
+
+.locals
+	{
+	height:40%;
+	width:120%;
+	float:left;	
+	}	
+	
+.r
+	{
+	float:left;
+	margin-top:-4%;
+	margin-left:3%;
+	border-radius:90px;
+	}	
+	
+.balp
+	{		
+	float:left;
+	margin-left:-7.3%;	
+	margin-top:7%;					
+	}	
+
+.tipru
+	{
+	float:left;
+	margin-left:-2%;
+	margin-top:7%	
+	}	
+	
+.second
+	{
+	float:left;
+	margin-top:-4%;
+	margin-left:5%;
+	border-radius:90px;	
+	}	
+
+.tiprus
+	{
+	float:left;
+	margin-left:-3%;
+	margin-top:7%		
+	}
+	
+.trempoling 
+	{
+	float:left;
+	margin-top:-4%;
+	margin-left:5%;
+	border-radius:90px;		
+	}	
+	
+.park
+	{
+	float:left;
+	margin-left:-11%;	
+	margin-top:7%;						
+	}	
+	
+.tipruske
+	{
+	float:left;
+	margin-left:-0.1%;
+	margin-top:7%			
+	}	
+
+.tiger
+	{
+	float:left;
+	margin-top:-4%;
+	margin-left:3%;
+	border-radius:90px;		
+	}	
+	
+.parks
+	{
+	float:left;
+	margin-left:-10%;
+	margin-top:7%;
+	}	
+	
+.sena
+	{
+	float:left;
+	margin-top:-4%;
+	margin-left:2%;
+	border-radius:90px;			
+	}	
+	
+.netsh
+	{
+	float:left;
+	margin-left:-8%;
+	margin-top:7%;	
+	}	
+	
+.sk
+	{
+	float:left;
+	margin-left:-3%;
+	margin-top:7%				
+	}	
+	
+.pushpa
+	{
+	float:left;
+	margin-top:-4%;
+	margin-left:2%;
+	border-radius:90px;
+	}	
+	
+.sks
+	{
+	float:left;
+	margin-left:-1%;
+	margin-top:7%					
+	}	
+	
+.kkk
+	{
+	float:left;
+	font-size:30px;
+	margin-left:35%;
+	}	
+	
+.shreemant
+	{
+	float:left;
+	height:60%;
+	width:110%
+	}	
+	
+.aue
+	{
+	float:left;
+	margin-left:2%;
+	}	
+	
+.samta
+	{
+	float:left;
+	margin-top:21%;
+	margin-left:-20%;
+	}	
+	
+.lokesh
+	{
+	float:left;
+	margin-top:23%;
+	margin-left:-20%;
+	color:gray;
+	}	
+	
+.roketam
+	{
+	float:left;
+	color:green;
+	margin-top:25%;
+	margin-left:-20%;
+	}	
+	
+.systam
+	{
+	float:left;
+	margin-top:27%;
+	margin-left:-20%;	
+	}	
+	
+.sokon
+	{
+	float:left;
+	margin-left:2%;
+	}	
+	
+.localshekshan
+	{
+	float:left;
+	margin-top:21%;
+	margin-left:-20%;
+	}	
+	
+.mobile
+	{
+	float:left;
+	margin-top:23%;
+	margin-left:-20%;
+	}	
+	
+.laptop
+	{
+	float:left;
+	margin-top:23%;
+	margin-left:-14%;
+	color:gray;
+	}	
+	
+.siilp	
+	{
+	float:left;
+	color:green;
+	margin-top:25%;
+	margin-left:-20%;	
+	}
+	
+.totam
+	{
+	float:left;
+	margin-top:27%;
+	margin-left:-20%;	
+	}	
+
+.welcome
+	{
+	float:left;
+	margin-left:2%;
+	}	
+	
+.locashe
+	{
+	float:left;
+	margin-left:-20%;
+	margin-top:21%;
+	}	
+	
+.tok
+	{
+	float:left;
+	margin-top:23%;
+	margin-left:-20%;
+	}	
+	
+.skinlock
+	{
+	float:left;
+	margin-top:23%;
+	margin-left:-14%;
+	color:gray;
+	}
+
+.skins
+	{
+	float:left;
+	margin-top:25%;
+	color:green;
+	margin-left:-20%;
+	}
+	
+.shila	
+	{
+	float:left;
+	margin-top:27%;
+	margin-left:-20%;	
+	}	
+	
+.komals
+	{
+	float:left;
+	margin-left:2%;
+	}	
+	
+.shivansh
+	{
+	float:left;
+	height:50%;
+	width:110%;
+	}	
+	
+.velcon
+	{
+	float:left;
+	margin-left:2%;
+	margin-top:3%;
+	}	
+	
+.ston
+	{
+	float:left;
+	margin-top:15%;
+	}	
+	
+.trempolingpark
+	{
+	float:left;
+	height:90%;
+	width:110%;
+	}	
+	
+.photospro
+	{
+	float:left;	
+	margin-left:35%;
+	font-size:30;
+	margin-top:10%;
+	}	
+
+.diomond	
+	{
+	float:left;
+	margin-left:-49%;
+	margin-top:14%;
+	}	
+	
+.gold
+	{
+	float:left;	
+	margin-top:35%;
+	margin-left:-49%;
+	}
+	
+.tok
+	{
+	float:left;
+	margin-left:-50%;
+	margin-top:16%;
+	}
+
+.tokss
+	{
+	float:left;
+	margin-left:-28%;
+	margin-top:16%;
+	}
+	
+.monday
+	{
+	float:left;
+	margin-left:-6%;
+	margin-top:16%;
+	}	
+	
+.mondays
+	{
+	float:left;
+	margin-left:2%;
+	margin-top:16%;
+	}	
+
+.openhouse
+	{
+	float:left;
+	height:70%;
+	width:120%;
+	margin-top:81px;
+	}	
+
+.ab
+	{
+	float:left;
+	margin-left:1%;
+	}	
+	
+.cb
+	{
+	float:left;
+	margin-left:2%;
+	}	
+	
+.db
+	{
+	float:left;
+	margin-left:2%;	
+	}	
+	
+.eb
+	{
+	float:left;
+	margin-left:2%;		
+	}	
+
+.locet	
+	{
+	float:left;
+	height:50%;
+	width:120%;
+	margin-top:1%;
+	}
+	
+.tmata
+	{
+	float:left;
+	margin-left:4%;
+	border:1px solid gray;
+	}	
+	
+.viral
+	{
+	float:left;
+	height:20%;
+	width:120%;
+	margin-top:-4%;
+	background-color:B1F0F7;
+	}	
+	
+.stops
+	{
+	float:left;	
+	margin-left:16%;
+	font-size:20px;
+	}	
+	
+.we
+	{
+	float:left;
+	margin-left:30%;
+	padding-bottom:1%;
+	padding-top:1%;
+	padding-left:1%;
+	padding-right:10%;
+	border-radius:40px;
+	}
+
+.tos
+	{
+	float:left;
+	margin-left:-5%;
+	}	
+	
+.hiphop
+	{
+	float:left;
+	background-color:0A5EB0;
+	height:10%;
+	width:110%;
+	}	
+	
+.sam
+	{
+	float:left;
+	margin-left:35%;
+	margin-top:1.5%;
+	color:ECEBDE;
+	}	
+	
+.riplays
+	{
+	float:left;
+	background-color:0A3981;
+	height:50%;
+	width:40%;
+	}	
+	
+.tmla
+	{
+	float:left;
+	margin-left:35%;
+	border-radius:20px;
+	margin-top:15%;
+	}	
+
+.toelet
+	{
+	float:left;
+	height:15%;
+	width:30%;
+	background-color:1F509A;
+	border-radius:60px;
+	margin-top:30%;
+	margin-left:-21%;
+	padding-top:2%;
+	padding-left:3%;
+	}	
+
+.times
+	{
+	float:left;
+	height:50%;
+	width:60%;
+	background-color:3D3BF3;
+	}	
+	
+.scop
+	{
+	float:left;
+	color:white;
+	margin-left:6%;
+	}	
+
+.start
+	{
+	float:left;
+	margin-top:10%;
+	margin-left:-5%;
+	color:white;
+	}	
+	
+.now
+	{
+	float:left;
+	margin-top:14%;
+	margin-left:-8%;
+	color:white;	
+	}	
+
+.veerup
+	{
+	float:left;
+	margin-top:18%;
+	margin-left:-11%;
+	color:white;		
+	}	
+
+.hand
+	{
+	float:left;
+	margin-top:21%;
+	margin-left:-11%;
+	color:white;	
+	}	
+
+.king 
+	{
+	float:left;
+	margin-top:24%;
+	margin-left:-11%;
+	color:white;		
+	}	
+	
+.lion
+	{
+	float:left;
+	margin-top:27%;
+	margin-left:-17%;
+	color:white;			
+	}	
+	
+.the
+	{
+	float:left;
+	margin-top:30%;
+	margin-left:-17%;
+	color:white;				
+	}	
+	
+.locte
+	{
+	float:left;
+	height:70%;
+	width:18%;
+	margin-left:6%
+	}	
+	
+.fivess
+	{
+	float:left;
+	margin-left:2%;
+	color:white;
+	}	
+	
+.tera
+	{
+	float:left;
+	color:white;
+	margin-left:-21%;
+	margin-top:55%;
+	}	
+	
+.mera
+	{
+	float:left;
+	margin-top:76%;
+	color:white;
+	margin-left:-51%;
+	}	
+	
+.shokrt	
+	{
+	float:left;
+	margin-top:95%;
+	color:white;
+	margin-left:-51%;	
+	}
+
+.timeup
+	{
+	float:left;
+	margin-top:115%;
+	color:white;
+	margin-left:-51%;		
+	}	
+	
+.shrivali	
+	{
+	float:left;
+	height:90%;
+	width:18%;
+	margin-left:6%;
+	}
+	
+.jotum
+	{
+	float:left;
+	margin-left:10%;
+	color:white;
+	}	
+	
+.merehotome
+	{
+	float:left;
+	color:white;
+	margin-left:-21%;
+	margin-top:55%;	
+	}	
+	
+.khuchnhi
+	{
+	float:left;
+	color:white;
+	margin-left:-41%;
+	margin-top:75%;		
+	}	
+	
+.mangu
+	{
+	float:left;
+	color:white;
+	margin-left:-41%;
+	margin-top:95%;			
+	}
+	
+.velceno
+	{
+	float:left;
+	color:white;
+	margin-left:-41%;
+	margin-top:115%;				
+	}	
+	
+.strp
+	{
+	float:left;
+	color:white;
+	margin-left:-41%;
+	margin-top:135%;	
+	}	
+	
+.lonavala
+	{
+	float:left;
+	color:white;
+	margin-left:-41%;
+	margin-top:155%;		
+	}	
+	
+.shreemantd
+	{
+	float:left;
+	color:white;
+	margin-left:-41%;
+	margin-top:175%;			
+	}	
+	
+.noob
+	{
+	float:left;
+	height:50%;
+	width:18%;
+	margin-left:6%;	
+	}	
+	
+.pro
+	{
+	float:left;
+	margin-left:19%;
+	color:white;
+	}	
+	
+.hacker
+	{
+	float:left;
+	margin-top:55%;
+	color:white;
+	margin-left:-20%;
+	}	
+
+.good
+	{
+	float:left;
+	margin-top:1%;
+	color:white;
+	margin-left:20%;
+	}	

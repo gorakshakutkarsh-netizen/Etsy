@@ -1,0 +1,36 @@
+.a
+	{
+	background-color:black;	
+	}
+	
+.shop
+	{
+	float:left;	
+	margin-top:10px;
+	}	
+	
+.top
+	{
+	margin-left:20px;	
+	margin-top:10px;
+	float:left;
+	}	
+	
+.khop
+	{
+	margin-top:20px;
+	background-color:black;
+	font-size:30px;
+	float:right;
+	margin-right:520px;
+	color:white;
+	}	
+	
+.singam
+	{
+	float:right;
+	font-size:30px;
+	color:white;
+	margin-left:900px;
+	margin-bottom:40px;
+	}	

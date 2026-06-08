@@ -1,0 +1,274 @@
+.one
+	{
+	color:orange;
+	font-size:30px;
+	float:left;
+	margin-left:25px;
+	}
+		
+.two
+	{
+	color:black;
+	margin-left:50px;
+	margin-top:10px;
+	float:left;
+	text-decoration:none;
+	}
+
+.three 
+	{
+	float:left;	
+	margin-left:10px;
+	margin-top:10px;
+	}	
+	
+.four
+	{
+	float:left;
+	margin-left:40px;
+	margin-top:5px;
+	border:1px solid black;
+	padding-right:490px;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:10px;
+	border-radius:30px;
+	font-size:18px;
+	}	
+	
+.five
+	{
+	font-size:18px;	
+	float:left;
+	margin-left:40px;
+	margin-top:10px;
+	}
+
+.six
+	{
+	margin-top:10px;
+	float:left;
+	margin-left:30px;
+	border:3px solid black;
+	border-radius:30px;
+	}
+	
+.seven
+	{
+	border-radius:30px;	
+	}	
+	
+.eight
+	{
+	float:left;
+	margin-left:30px;
+	margin-top:10px;
+	}
+	
+.nine
+	{
+	float:left;
+	margin-left:30px;
+	margin-top:10px;	
+	}	
+	
+.ten
+	{
+	float:left;
+	margin-left:30px;
+	margin-top:10px;	
+	}	
+	
+.g1
+	{
+	margin-top:10px;
+	margin-left:330px;
+	float:left;
+	}	
+
+.g2
+	{
+	float:left;
+	margin-top:10px;
+	margin-left:20px;
+	font-size:14px;
+	text-decoration:none;
+	color:black;
+	}	
+	
+.g3
+	{
+	float:left;
+	margin-top:10px;
+	margin-left:40px;
+	font-size:14px;
+	text-decoration:none;
+	color:black;
+	}	
+	
+.g4	
+	{
+	float:left;
+	margin-top:10px;
+	margin-left:30px;	
+	font-size:14px;	
+	text-decoration:none;
+	color:black;
+	}
+	
+.g5
+	{
+	float:left;
+	margin-top:10px;
+	margin-left:30px;	
+	font-size:14px;		
+	}	
+	
+.g6
+	{
+	float:left;
+	margin-top:10px;
+	margin-left:30px;	
+	font-size:14px;		
+	}	
+	
+.loks
+	{
+	width:100%;
+	height:50%;
+	margin-top:-1%;
+	float:left;
+	background-color:FAB12F;
+	margin-left:-1%;
+	padding-left:20px;
+	}	
+
+.team
+	{
+	float:left;
+	margin-left:24%;
+	font-size:45px;
+	}
+	
+.shok
+	{
+	float:left;
+	margin-left:20%;
+	margin-top:-2%;
+	font-size:21px;
+	color:black;
+	}	
+
+.toks
+	{
+	float:left;
+	margin-left:17%;
+	margin-top:-0.9%;
+	font-size:18px;	
+	}
+	
+.system	
+	{
+	width:100%;
+	height:50%;
+	margin-top:-1%;
+	float:left;	
+	background-color:red;
+	}
+	
+.sample
+	{
+	float:left;
+	border-radius:120px;
+	margin-left:3%;
+	margin-top:-3%;
+	}	
+	
+.world
+	{
+	float:left;
+	margin-top:9%;
+	margin-left:-13%;
+	}
+	
+.cup	
+	{
+	float:left;	
+	margin-top:12%;
+	margin-left:-9%;
+	}	
+
+.ipl
+	{
+	float:left;
+	border-radius:120px;
+	margin-left:6%;
+	margin-top:-3%;	
+	}	
+	
+.botal
+	{
+	float:left;
+	margin-top:9%;
+	margin-left:-14%;	
+	}	
+	
+.tklu
+	{
+	float:left;
+	border-radius:120px;
+	margin-left:6%;
+	margin-top:-3%;		
+	}
+	
+.kids
+	{
+	float:left;
+	margin-top:9%;
+	margin-left:-14%;		
+	}	
+	
+.repito
+	{
+	float:left;
+	border-radius:120px;
+	margin-left:6%;
+	margin-top:-3%;		
+	}	
+
+.zometo
+	{
+	float:left;
+	margin-top:9%;
+	margin-left:-14%;			
+	}	
+	
+.shree
+	{
+	float:left;
+	border-radius:120px;
+	margin-left:6%;
+	margin-top:-3%;			
+	}	
+	
+.suggi
+	{
+	float:left;
+	margin-top:9%;
+	margin-left:-14%;				
+	}	
+	
+.bjrangbali
+	{
+	float:left;
+	border-radius:120px;
+	margin-left:6%;
+	margin-top:-3%;				
+	}	
+	
+.token
+	{
+	float:left;
+	margin-top:9%;
+	margin-left:-14%;					
+	}	
